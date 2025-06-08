@@ -1,4 +1,4 @@
-#  Engineering Document Chatbot — AI-Powered Technical Assistant
+#  Engineering Document Chatbot: "AI-Powered Technical Assistant"
 
 An intelligent, domain-specific chatbot built for an engineering firm to retrieve and answer technical questions from thousands of internal documents (PDFs, Word files, images, and product manuals) stored on Google Drive. This project leverages a **Retrieval-Augmented Generation (RAG)** pipeline with multilingual capabilities to provide accurate, fast, and context-aware responses.
 
@@ -99,7 +99,7 @@ embedding_model = SentenceTransformer("intfloat/multilingual-e5-large-instruct")
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/engineering-doc-chatbot.git
+gh repo clone Saadullah45/Rag-Chatbot-Development-Engineering-Firm-in-based-in-Estonia
 
 # Setup Drive API credentials and mount Drive in your notebook
 
